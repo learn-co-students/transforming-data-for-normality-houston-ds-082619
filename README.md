@@ -1,4 +1,4 @@
-# Tranforming Data for Normality
+# Transforming Data for Normality
 
 ## Goals: 
 
